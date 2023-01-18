@@ -1,0 +1,20 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-around;
+}
+
+.box {
+    height: 250px;
+    width: 300px;
+    background-color: rgb(62, 77, 90);
+    border: 1px solid black;
+}
+
+.btn {
+    margin: 15px
+}
